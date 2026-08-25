@@ -6,4 +6,4 @@
 
 ### Projects
 * **Discord Bots:** Custom bot solutions built with TypeScript.
-* **C++ / Java:** Currently learning more about C++ and Java for optimized software and Minecraft plugin development
+* **C++ / Java:** Currently building a few projects in C++ with Qt and Java.
