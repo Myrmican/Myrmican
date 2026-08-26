@@ -1,4 +1,4 @@
-<h1 align="center">Howdy, partner 🤠</h1>
+<h1 align="center">Howdy, Partner 🤠</h1>
 
 ### Tech Stack
 * **Languages:** C++, Java, TypeScript, JavaScript
