@@ -5,5 +5,5 @@
 * **Tools & Platforms:** Node.js, Git, Discord API
 
 ### Projects
-* **Discord Bots:** Custom bot solutions built with TypeScript.
+* **Discord Bots:** Custom Discord bots built with TypeScript.
 * **C++ / Java:** Currently building a few projects in C++ with Qt and Java for Minecraft plugin development.
