@@ -7,5 +7,5 @@
 ### Projects
 * **Discord Bots:** Custom Discord bots built with TypeScript.
 * **C++ / Java:** Currently building a few projects in C++ with Qt and Java for Minecraft plugin development.
-* 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrmican"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Myrmican&layout=compact&theme=tokyonight)
